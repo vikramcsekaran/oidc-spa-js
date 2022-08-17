@@ -1,4 +1,4 @@
-# @auth0/auth0-spa-js
+# @oidc/oidc-spa-js
 
 Auth0 SDK for Single Page Applications using [Authorization Code Grant Flow with PKCE](https://auth0.com/docs/api-auth/tutorials/authorization-code-grant-pkce).
 
