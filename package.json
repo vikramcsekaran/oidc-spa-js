@@ -1,7 +1,7 @@
 {
-  "author": "Auth0",
-  "name": "@auth0/auth0-spa-js",
-  "description": "Auth0 SDK for Single Page Applications using Authorization Code Grant Flow with PKCE",
+  "author": "vikram",
+  "name": "@oidc/oidc-spa-js",
+  "description": "OIDC SDK for Single Page Applications using Authorization Code Grant Flow with PKCE extracted from Auth0",
   "license": "MIT",
   "version": "1.22.2",
   "main": "dist/lib/auth0-spa-js.cjs.js",
