@@ -1,1 +1,18 @@
-{}
+{
+    "Test": {
+        "projectName": "Test",
+        "description": "This is a test Project",
+        "type": "community",
+        "author": "vikramcsekaran",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/vikramcsekaran/oidc-spa-js",
+        "githubUri": "https://github.com/vikramcsekaran/oidc-spa-js",
+        "license": "apache-2.0",
+        "lastUpdated": "1727200069132",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
